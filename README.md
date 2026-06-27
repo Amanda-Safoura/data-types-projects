@@ -56,6 +56,8 @@ data-types-projects/
 ├── exercise_05_library_manager/
 │   └── library_manager.py
 │
+├── exercises.md
+│
 └── other/
     └── how-to-remove-punctuation-and-keep-words-in string.md
 ```
